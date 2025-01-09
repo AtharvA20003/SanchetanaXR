@@ -74,6 +74,8 @@ This project is licensed under the MIT License.
 
 >[NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
 
+>[Mike's Code FPS Game playlist](https://youtube.com/playlist?list=PLtLToKUhgzwm1rZnTeWSRAyx9tl8VbGUE&si=jWNscjPhSzTz7GMj)
+
 >Unity Asset Store for terrain assets.
 
 ### Contact
