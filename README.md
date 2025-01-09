@@ -1,4 +1,4 @@
-# SanchetanaXR
+# संचेतनाXR
 ## Mobile VR Game with Custom ESP32 Android Gamepads
 
 ## Overview
