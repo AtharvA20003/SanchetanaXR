@@ -1,6 +1,8 @@
 # संचेतनाXR
 ## Mobile VR Game with Custom ESP32 Android Gamepads
 
+## [Demo Video](https://www.linkedin.com/posts/atharva-joshi-902970225_vr-gamedevelopment-unity-activity-7297645901387329536-UFUl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiPuBIBsBJQLLwuK-u8sCZ0E9WEJr-GcY4)
+
 ## Overview
 
 Experience immersive VR gaming on your Android device with our custom-designed VR game and unique ESP32-powered gamepads. This project combines Unity-based VR development with innovative hardware inputs to create an accessible and engaging gaming experience.
